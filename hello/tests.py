@@ -20,4 +20,4 @@ class SimpleTest(TestCase):
 
     def test_vlad_bad(self):
         # Create an instance of a GET request.
-        self.assertTrue(True)
+        self.assertTrue(False)
